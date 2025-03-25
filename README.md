@@ -8,3 +8,6 @@ You can install the package with pip:
 
 ```bash
 pip screenreclib
+```
+
+### Made by Sotiral
